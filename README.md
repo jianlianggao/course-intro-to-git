@@ -290,9 +290,13 @@ Join in:
 
 Despite Git's useful conflict resolution tools, dealing with conflicts is still slow and people can make mistakes. By committing small and often, you reduce the chances of having merge conflicts.
 
-### 9. Wrapping up
+### 9. Branch Naming Convention
 
-* [Watch the YouTube video for section 9](https://youtu.be/0IQAVgEN4WY)
+
+
+### 10. Wrapping up
+
+* [Watch the YouTube video for section 9]
 
 By now you have seen the basics of what Git can do for you. But there is much more to explore. We haven't covered:
 * branching,
