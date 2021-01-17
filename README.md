@@ -292,7 +292,7 @@ Despite Git's useful conflict resolution tools, dealing with conflicts is still 
 
 ### 9. Branch Naming Convention
 
-Working on interdisciplinary projects often requires to work in a scale of 10+ researhers. Using GitHub to manage code repository is necessary. 
+Working on interdisciplinary projects often requires to work in a scale of 10+ researhers. Using GitHub to manage code repository is necessary. Most of cases start with **master** branch on a repository and apply all changes directly to the master branch.  
 
 ### 10. Wrapping up
 
