@@ -292,7 +292,18 @@ Despite Git's useful conflict resolution tools, dealing with conflicts is still 
 
 ### 9. Branch Naming Convention
 
-Working on interdisciplinary projects often requires to work in a scale of 10+ researhers. Using GitHub to manage code repository is necessary. Most of cases start with **master** branch on a repository and apply all changes directly to the master branch.  
+Working on interdisciplinary projects often requires to work in a scale of 10+ researhers. Using GitHub to manage code repository is necessary. Most of cases start with **master** branch on a repository and apply all changes directly to the master branch. That is not a best practice to organize code repository. You need to manage different branches during the progress of your project(s). Therefore you need to have a good understanding of branch naming convention.
+
+![branche model](images/git-branch-model.png)
+
+* main branches
+    * master
+    * develop
+    
+* supporint branches
+    * feature branches
+    * release branches
+    * hotfix branches
 
 ### 10. Wrapping up
 
