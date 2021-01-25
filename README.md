@@ -294,7 +294,9 @@ Despite Git's useful conflict resolution tools, dealing with conflicts is still 
 
 Working on interdisciplinary projects often requires to work in a scale of 10+ researhers. Using GitHub to manage code repository is necessary. Most of cases start with **master** branch on a repository and apply all changes directly to the master branch. That is not a best practice to organize code repository. You need to manage different branches during the progress of your project(s). Therefore you need to have a good understanding of branch naming convention.
 
-![branche model](images/git-branch-model.png){width=250px}
+<div style="width:50%; height:50%">
+![branche model](images/git-branch-model.png)
+</div
 
 * **main branches**
     * master
