@@ -306,7 +306,7 @@ Working on interdisciplinary projects often requires to work in a scale of 10+ r
     * release branches
     * hotfix branches
 
-Feature branches normally merge into dev branch.
+Feature branches normally merge into dev branch. Let's try.
 
 
 ### 10. Wrapping up
