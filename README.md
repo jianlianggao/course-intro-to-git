@@ -301,7 +301,7 @@ Working on interdisciplinary projects often requires to work in a scale of 10+ r
     * master
     * develop
     
-* **supporint branches**
+* **supporting branches**
     * feature branches (*e.g.*, feature/xxx)
     * release branches (*e.g.*, release-x.x)
     * hotfix branches (*e.g.*, hotfix-x.x)
