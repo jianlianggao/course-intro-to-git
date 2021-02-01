@@ -302,9 +302,9 @@ Working on interdisciplinary projects often requires to work in a scale of 10+ r
     * develop
     
 * **supporint branches**
-    * feature branches
-    * release branches
-    * hotfix branches
+    * feature branches (*e.g.*, feature/xxx)
+    * release branches (*e.g.*, release-x.x)
+    * hotfix branches (*e.g.*, hotfix-x.x)
 
 Feature branches normally merge into dev branch. Let's try.
 
