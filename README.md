@@ -295,7 +295,7 @@ Despite Git's useful conflict resolution tools, dealing with conflicts is still 
 Working on interdisciplinary projects often requires to work in a scale of 10+ researhers. Using GitHub to manage code repository is necessary. Most of cases start with **master** branch on a repository and apply all changes directly to the master branch. That is not a best practice to organize code repository. You need to manage different branches during the progress of your project(s). Therefore you need to have a good understanding of branch naming convention.
 
 
-![branche model](images/git-branch-model.png)
+
 
 * **main branches**
     * master
@@ -313,6 +313,10 @@ Working on interdisciplinary projects often requires to work in a scale of 10+ r
 ![supporint branches](images/supporting-branches.png)
 
 Feature branches normally merge into dev branch. Let's try.
+
+For your reference, a recommended comprehensive branch naming model is like:
+
+![branche model](images/git-branch-model.png)
 
 
 ### 10. Wrapping up
