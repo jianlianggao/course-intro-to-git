@@ -299,20 +299,23 @@ Working on interdisciplinary projects often requires to work in a scale of 10+ r
 
 * **main branches**
     * master
-    * develop
-    
+    * develop (*e.g.,* often named as dev)
+
+The two main branches are held by the central repository with an infinite lifetime. The *master* branch is mainly for keeping stable and ready to release product. All intermediate changes should not be operated in *master* branch. The develop (*dev*) branch or supporting branches (as shown below) are recommended to use. When the source code in the *dev* branch reaches a stable point, all the changes need to be merged back into the *master* branch and then added a tag with a release number. Please try.
     
 ![main branches](images/main-branches.png)
     
 * **supporting branches**
     * feature branches (*e.g.*, feature/xxx)
     * release branches (*e.g.*, release-x.x)
-    * hotfix branches (*e.g.*, hotfix-x.x)
+    * hotfix branches (like release branches *e.g.*, hotfix-x.x)
     
     
 ![supporint branches](images/supporting-branches.png)
 
-Feature branches normally merge into dev branch. Let's try.
+For simplicity, we only talk about *feature* branch here.
+
+A *feature* branche usually branches off from the *dev* branch and therefore normally merges into the *dev* branch. Let's try.
 
 For your reference, a recommended comprehensive branch naming model is like:
 
