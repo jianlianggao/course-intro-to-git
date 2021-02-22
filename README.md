@@ -12,7 +12,7 @@ This introductory course will *not* cover **branching**.
 
 ## Prerequisites
 * No programming experience is required.
-* We are going to be using the [GitHub desktop app](https://desktop.github.com/), so please install this on your machine before starting.
+* We are going to be using the [GitHub desktop app](https://desktop.github.com/), so please install this on your machine before starting.(Mac OS does not require to isntall)
 
 ## Course materials
 
