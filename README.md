@@ -324,8 +324,11 @@ For your reference, a recommended comprehensive branch naming model is like:
 
 ### 10. Wrapping up
 
+* [Watch the YouTube video for section 9]
 
 By now you have seen the basics of what Git can do for you. But there is much more to explore. We haven't covered:
+* branching,
+* releases,
 * the command line interface,
 * Git integration in your favourite IDE,
 so go out into the world and learn all you can about this very useful tool.
