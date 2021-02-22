@@ -331,3 +331,5 @@ By now you have seen the basics of what Git can do for you. But there is much mo
 so go out into the world and learn all you can about this very useful tool.
 
 Happy Gitting!
+
+Any questions, please feel free to get in contact.
