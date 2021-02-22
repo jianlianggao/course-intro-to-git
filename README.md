@@ -8,6 +8,7 @@ Introduction to Git course for the Interdisciplinary Research Computing I-Explor
 * Use Git to synchronise the files on your own machine with those on a remote server (both pushing to the server and pulling from the server)
 * Use Git to collaborate with other users on a project, including dealing with merge conflicts
 
+This introductory course will *not* cover **branching**.
 
 ## Prerequisites
 * No programming experience is required.
