@@ -333,3 +333,6 @@ so go out into the world and learn all you can about this very useful tool.
 Happy Gitting!
 
 Any questions, please feel free to get in contact.
+
+Test of Colab
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pillargauss/course-intro-to-git/blob/master/notebooks/colab-github-demo.ipynb))
